@@ -1,0 +1,8 @@
+https://cloud.google.com/blog/products/identity-security/enabling-keyless-authentication-from-github-actions
+
+https://cloud.google.com/iam/docs/workload-identity-federation?_ga=2.168141473.-1428485918.1658419272
+
+https://docs.github.com/en/actions/deployment/security-hardening-your-deployments/about-security-hardening-with-openid-connect#configuring-the-oidc-trust-with-the-cloud
+
+where I was playing with this 
+https://github.com/slacker525600/baby-sizes/blob/main/.github/workflows/google.yml
